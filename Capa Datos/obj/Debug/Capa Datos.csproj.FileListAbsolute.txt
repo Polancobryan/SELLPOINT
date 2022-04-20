@@ -1,0 +1,8 @@
+C:\Users\bryan\source\repos\Capa Datos\bin\Debug\Capa Datos.exe.config
+C:\Users\bryan\source\repos\Capa Datos\bin\Debug\Capa Datos.exe
+C:\Users\bryan\source\repos\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\bryan\source\repos\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\Capa Datos\obj\Debug\Capa Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\source\repos\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Capa Datos\obj\Debug\Capa Datos.exe
+C:\Users\bryan\source\repos\Capa Datos\obj\Debug\Capa Datos.pdb
